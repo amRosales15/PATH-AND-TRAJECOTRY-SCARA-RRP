@@ -1,4 +1,4 @@
-# PATH-AND-TRAJECOTRY-SCARA-RRP
+# PATH-AND-TRAJECTORY-SCARA-RRP
  Contains Cubic and Quintic Polynomial-Plotting
  
  
