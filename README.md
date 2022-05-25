@@ -15,6 +15,10 @@ DIFFERENTIATING PATH AND TRAJECTORY USED BY MR. PETER CORKE AND CUBIC POLYNOMIAL
 <img src="img\Figure_1_CUBIC_PRISMATIC.png">
 <img src="img\Figure_1(zoom in).png">
 
+ QUINTIC POLYNOMIAL PLOTTING
+       
+               (REVOLUTE)
+<img src="img\Figure_1 quintic_revolute.png">
 
-        QUINTIC POLYNOMIAL PLOTTING
-<img src="img\Figure_1 QUINTIC.png">
+              (PRISMATIC)
+<img src="img\Figure_1 quintic_prismatic.png">
