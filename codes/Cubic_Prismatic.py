@@ -1,7 +1,7 @@
 import numpy as np
 import matplotlib.pyplot as plt
 
-# degrees to radian converter
+# mm to m converter
 def mm_to_m(d):
     m=1000
     return d/m
